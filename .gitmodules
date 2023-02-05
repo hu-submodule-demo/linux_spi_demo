@@ -1,0 +1,6 @@
+[submodule "linux_spi"]
+	path = linux_spi
+	url = https://github.com/hu-submodule-1/linux_spi.git
+[submodule "linux_gpio"]
+	path = linux_gpio
+	url = https://github.com/hu-submodule-1/linux_gpio.git
